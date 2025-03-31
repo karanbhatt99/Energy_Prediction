@@ -85,7 +85,3 @@ These metrics ensure we capture both average and worst-case prediction errors.
 
 - Python 3.7+
 - Jupyter Notebook or VSCode
-- Install dependencies:
-
-```bash
-pip install -r requirements.txt
