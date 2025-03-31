@@ -45,13 +45,10 @@ To model the complex patterns in electricity demand, several regression algorith
 ### 1. **Linear Regression**  
 Simple yet effective baseline to model linear relationships.
 
-### 2. **Ridge & Lasso Regression**  
-Regularized versions of Linear Regression to handle multicollinearity and prevent overfitting.
-
-### 3. **Support Vector Regressor (SVR)**  
+### 2. **Support Vector Regressor (SVR)**  
 A robust model that can capture nonlinear relationships by using kernel tricks.
 
-### 4. **Gradient Boosting Regressor**  
+### 3. **Gradient Boosting Regressor**  
 Ensemble technique that builds strong predictive models using many weak learners in sequence. It showed **excellent performance** in this project by minimizing error effectively.
 
 ---
@@ -70,13 +67,8 @@ These metrics ensure we capture both average and worst-case prediction errors.
 
 ## 📈 Results Visualization
 
-### 📉 Demand Forecasting Sample Plot
+![image](https://github.com/user-attachments/assets/01121d09-e8dd-4de0-944c-95146d403587)
 
-*Plot comparing actual vs predicted values (e.g., for GBR region over a selected month).*
-
-![Sample Forecast](results/sample_forecast.png)
-
----
 
 ## 💡 Insights from Data
 
